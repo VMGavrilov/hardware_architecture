@@ -240,7 +240,7 @@
 
 В процессоре есть набор регистров (РОН). Размер регистров фиксирован. Команды бывают: регистр-регистр, регистр-память, память-память.
 
-[Register architecture](./screenshots/register_architecture.png)
+![Register architecture](./screenshots/register_architecture.png)
 
 *Регистровая архитектура. Показаны General Registers (gr0…gr127) и Floating-point Registers (fr0…fr127).*
 
